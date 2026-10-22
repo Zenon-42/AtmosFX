@@ -28,11 +28,9 @@
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Zenon-42/AtmosFX.git
 cd AtmosFX
 ```
-
-Replace `<YOUR_REPOSITORY_URL>` with your Git repository URL.
 
 ### 2. Install dependencies
 
